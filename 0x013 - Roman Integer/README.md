@@ -1,7 +1,7 @@
 # 13. Roman to Integer
 ### Easy
 
-![Badge](https://img.shields.io/badge/easy-<COLOR>?style=<STYLE>&logo=<LOGO>&logoColor=<LOGO_COLOR>)
+![Badge](https://img.shields.io/badge/easy-<red>?style=<STYLE>&logo=<LOGO>&logoColor=<LOGO_COLOR>)
 
 
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
